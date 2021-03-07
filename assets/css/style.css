@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.logo img{
+    margin-top: 8px;
+    margin-left: 118px;
+}
+.nav{
+    margin-top: -22px;
+    margin-left: 306px;
+    font-size: 23px;
+}
+.para{
+    margin-top: -39px;
+    margin-left: 169px;
+    font-size: 23px;
+}
+.service h1{
+    text-align: center;
+    margin-top: 79px;
+    margin-bottom: 22px;
+
+}
+.service-details{
+    margin-left: 180px;
+}
+.dot {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 81px;
+  }
+ .dot-logo{
+    margin-left: 292px;
+    margin-top: -156px;
+ }
+ .dot-logo .dot-logo-2 img{
+    margin-left: 223px;
+
+ }
+ .dot-logo .dot-logo-3 img{
+    margin-left: 217px;
+
+ }
+ .dot-logo .dot-logo-4 img{
+    margin-left: 223px;
+
+ }
+ .service-det{
+    width: 242px;
+   
+    margin-top: 42px;
+    margin-left: 188px;
+ }
+ .service-det-1{
+    width: 242px;
+    
+    margin-top: -224px;
+    margin-left: 468px;
+ }
+ .service-det-2{
+    width: 242px;
+   
+    margin-top: -224px;
+    margin-left: 737px;
+ }
+ .service-det-3{
+    width: 242px;
+    
+    margin-top: -224px;
+    margin-left: 1007px;
+}
+.col{
+    font-size: 20px;
+    background-color: #D5C2B4;
+    width: 100%;
+    height: 400px;
+    margin-top: 52px;
+    margin-bottom: 40px;
+}
+.col h1{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 128px;
+    padding-left: 93px;
+    color: white;
+}
+.but{
+    margin-left: 93px;
+    margin-top: 20px;
+}
+
+.button {
+    background-color: #A4CE21; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  .button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  .button2 {
+    background-color: #00BD9D; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+  }
+  
+  .button2 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .port-but{
+    margin-left: 463px;
+  }
+  .button3 {
+    background-color: #ECECEC; /* Green */
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button3 {padding: 10px 24px;}
+  .button3:hover {
+    background-color: #00BD9D;
+  }
+  .col b{
+    color: white;
+    margin-left: 92px;
+    font-size: 36px;
+  }
+  .card-ex{
+    margin-left: 227px;
+    width: 300px;
+    height: 400px;
+    background-color: #F4F4F4;
+  }
+  .card-ex h3{
+    padding-top: 32px;
+  }
+
+   .taka{
+    width: 100%;
+    height: 34px;
+    background-color: #00BD9D;
+    padding-top: 5px;
+    margin-top: 20px;
+  }
+  .card-ex1{
+    margin-left: 558px;
+    margin-top: -401px;
+    width: 300px;
+    height: 400px;
+    background-color: #F4F4F4;
+  }
+  .card-ex1 h3{
+    padding-top: 32px;
+  }
+  .card-ex2{
+    margin-left: 892px;
+    margin-top: -401px;
+    width: 300px;
+    height: 400px;
+    background-color: #F4F4F4;
+  }
+  .card-ex2 h3{
+    padding-top: 32px;
+  }
+  .client hr{
+    margin-top: 500px;
+    margin-left: 139px;
+    width: 291px;
+  }
